@@ -16,4 +16,11 @@ describe("simple test function should return ok", function() {
 
         expect(result).toBe(true);
     });
+    it("should verify if the email contains at least 8 caracthers", function() {
+        let main = new Main();
+
+        let result = main.emailChercker("test@");
+
+        expect(result).toBe(false);
+    });
 });
