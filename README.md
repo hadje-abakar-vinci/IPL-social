@@ -25,7 +25,7 @@ Once the prerequisites are installed, follow these steps to set up the project:
 - To run the tests and validate the password checker function, use the following command: npm test
 
 ## Code Explanation
-In the "IPL Social" project, we created a password validation function in a file named passwordChecker.js. This function ensures that a given string is a valid password by following these criteria:
+In the "IPL Social" project, we created a password validation function in a file named passwordChecker.js. This function ensures that a given string ais a valid password by following these criteria:
 
 * The password must contain at least 8 characters.
 * It must include at least one special character (e.g., @, #, !, etc.).
