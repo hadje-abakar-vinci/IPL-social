@@ -1,10 +1,10 @@
 # IPL Social
 
-**Nom**: Abakar
-**Prénom**: Hadjé
+**Last Name**: Abakar
+**First Name**: Hadjé
 **Email**: hadje.abakar@student.vinci.be
 
-**URL du projet GitHub**: 
+**GitHub Project URL**: https://github.com/hadje-abakar-vinci/IPL-social.git
 
 ## Description
 This project uses GitHub Actions to automate Continuous Integration (CI). The pipeline runs on every Pull Request (PR) to the main branch. It includes steps to install dependencies and run unit tests.
@@ -12,14 +12,14 @@ This project uses GitHub Actions to automate Continuous Integration (CI). The pi
 ## Prerequisites
 Before starting, ensure you have the following installed on your computer:
 
-Node.js: A JavaScript runtime environment. You can download and install it from nodejs.org.
-npm (Node Package Manager): Included with Node.js, it manages the project's dependencies.
-Git: A version control system needed to clone the repository. Download it from git-scm.com.
+- Node.js: A JavaScript runtime environment. You can download and install it from nodejs.org.
+- npm (Node Package Manager): Included with Node.js, it manages the project's dependencies.
+- Git: A version control system needed to clone the repository. Download it from git-scm.com.
 
 ## Installation
 Once the prerequisites are installed, follow these steps to set up the project:
 
-- Clone the repository from GitHub: git clone 
+- Clone the repository from GitHub: git clone https://github.com/hadje-abakar-vinci/IPL-social.git
 - Navigate to the project directory: cd IPL-social
 - Install the project dependencies using npm: npm install
 - To run the tests and validate the password checker function, use the following command: npm test
